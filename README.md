@@ -1,4 +1,4 @@
 # node-red-artik
-Integrate NODE-RED with Samsung Artik for MIMIC MQTT Simulator
+Integrate [NODE-RED](https://nodered.org) with [Samsung Artik](https://www.artik.io/) for [MIMIC MQTT Simulator](http://gambitcomm.com/site/mqttsimulator.php)
 
-FLows to add/delete devices in bulk to Samsung Artik.
+Flows to add/delete devices in bulk to Samsung Artik.
